@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComenziApp.Core", "ComenziApp.Core\ComenziApp.Core.csproj", "{EB477F35-93DA-4518-9143-C94109E64CC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComenziApp.UnitTests", "ComenziApp.UnitTests\ComenziApp.UnitTests.csproj", "{3E236F6A-3410-4B9D-BC49-945E2BF74469}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{04AA9CB0-87FF-472B-8A6B-E04226680736}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB477F35-93DA-4518-9143-C94109E64CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB477F35-93DA-4518-9143-C94109E64CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB477F35-93DA-4518-9143-C94109E64CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB477F35-93DA-4518-9143-C94109E64CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E236F6A-3410-4B9D-BC49-945E2BF74469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E236F6A-3410-4B9D-BC49-945E2BF74469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E236F6A-3410-4B9D-BC49-945E2BF74469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E236F6A-3410-4B9D-BC49-945E2BF74469}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8F9332B-5035-4F56-AACC-80FCC8742A8C}
+	EndGlobalSection
+EndGlobal
